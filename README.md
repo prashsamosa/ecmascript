@@ -1,2 +1,1 @@
-# JavaScript
-## Documentation of my JavaScript Journey
+# Documentation of my JS Journey.
